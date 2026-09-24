@@ -1,4 +1,4 @@
-<h1 align="center">Domenico Gagliardi</h1>
+<h1 align="center">Dom</h1>
 
 <p align="center">
   <strong>Entrepreneur</strong><br>
