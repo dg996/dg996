@@ -1,4 +1,4 @@
-<h1 align="center">Domenico Gagliardi</h1>
+<h1 align="center">Dom</h1>
 
 <p align="center">
   <strong>I build products where data, agents, and people meet.</strong>
