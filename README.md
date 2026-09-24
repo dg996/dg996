@@ -1,94 +1,99 @@
-<h1 align="center">Dom</h1>
+<h1 align="center">Domenico Gagliardi</h1>
 
 <p align="center">
-  <strong>I build products where data, agents, and people meet.</strong>
+  <strong>Entrepreneur</strong><br>
+  I build companies for economic and social impact.
 </p>
 
 <p align="center">
-  civic tech · AI tooling · growth systems · product engineering
+  AI companies · civic tech · community · operations &amp; growth
 </p>
 
 <p align="center">
-  <a href="https://www.dovevannoinostrisoldi.com"><img src="https://img.shields.io/badge/website-dovevannoinostrisoldi.com-111111?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://domenicogagliardi.com"><img src="https://img.shields.io/badge/website-domenicogagliardi.com-111111?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/domenicogagliardi/"><img src="https://img.shields.io/badge/LinkedIn-Domenico%20Gagliardi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/dom_gag_96"><img src="https://img.shields.io/badge/X-@dom_gag_96-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Entrepreneur-111111?style=for-the-badge" alt="Entrepreneur">
+  <img src="https://img.shields.io/badge/AI%20Companies-111111?style=for-the-badge" alt="AI Companies">
   <img src="https://img.shields.io/badge/Civic%20Tech-111111?style=for-the-badge" alt="Civic Tech">
-  <img src="https://img.shields.io/badge/AI%20Tooling-111111?style=for-the-badge" alt="AI Tooling">
-  <img src="https://img.shields.io/badge/Product-111111?style=for-the-badge" alt="Product">
-  <img src="https://img.shields.io/badge/Open%20Source-111111?style=for-the-badge" alt="Open Source">
+  <img src="https://img.shields.io/badge/Community-111111?style=for-the-badge" alt="Community">
 </p>
 
 ---
 
 ## About
 
-I'm **Dom** — builder, explorer, and admin at **[Italian Builders](https://github.com/Italian-Builders-Org)**.
+I'm an entrepreneur and investor. I build companies, scale digital products, and focus on operations and growth.
 
-I care about turning messy public reality into software people can actually use: verified data, clear provenance, interfaces that don't invent numbers, and AI tools that help ship instead of just demo.
+I've launched products used by hundreds of thousands of people, built companies that raised funding from VCs, and published writing on AI and the economy.
 
-Most of my energy goes into product surfaces and the systems underneath them — Next.js apps, evidence-backed data pipelines, agent workflows, and small sharp tools for growth and research.
+Right now I'm the main contributor & launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)** — civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co) and [Manto Venture](https://mantoventure.com).
 
-> **Default mode:** building, exploring, dreaming — then shipping.
+I also run **[Italian Builders](https://italianbuilders.co)** — an invite-only community for Italian founders and builders who ship (600+ members).
 
-## Open source
+> More on **[domenicogagliardi.com](https://domenicogagliardi.com)** — work, projects, writing, beliefs.
+
+## Work
 
 <table>
 <tr>
 <td>
-  <strong><a href="https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi">DoveVannoINostriSoldi</a> · maintainer</strong><br><br>
-  Civic tech for Italian public spending and institutions: official sources, fail-closed imports, atlases, and APIs you can trust.<br><br>
-  <strong>As of Sep 2026: 124 PRs opened · 117 merged on the main repo.</strong><br>
-  <a href="https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi/pulls?q=is%3Apr+author%3Adg996">View contributions</a> · <a href="https://www.dovevannoinostrisoldi.com">Live product</a>
+
+**Now · [DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)** · public money, explained simply · `[LIVE]`  
+Main Contributor & Launcher · Aug 2026 –  
+Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders and Manto Venture.  
+[dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com) · [GitHub](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Kortix](https://kortix.com)** · one AI command center for your company · `[LEFT · MBO]`  
+Founding member & COO · Apr 2025 – Jul 2026  
+Launched Suna: ~20k GitHub stars and half a million users worldwide. Raised $4M seed. Left after a small management buyout; remain a small shareholder.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Softgen AI** · `[EXITED]`  
+Co-founder & Head of Growth · Nov 2024 – Apr 2025  
+AI full-stack web apps. Scaled $20k to $500k ARR in four months.
+
 </td>
 </tr>
 </table>
 
-## Selected work
+## Community & investments
 
-| Project | What I built |
+- **[Italian Builders](https://italianbuilders.co)** — invite-only community for Italian founders who ship · [X @italianbldrs](https://x.com/italianbldrs)
+- **Fundreef** — pre-seed · *the Lovable for fundraising*
+
+## Selected open source
+
+| Project | What |
 | --- | --- |
-| **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Public-money atlas for Italy — spending views, institutional maps, provenance-first data contracts, production gates. |
-| **[OpenX-Growth](https://github.com/dg996/OpenX-Growth)** | Open-source X growth tool (TypeScript). |
-| **[XViral](https://github.com/dg996/XViral)** | AI that grades a post before the algorithm does (Rust). |
-| **[codex-first-customer-finder-skill](https://github.com/dg996/codex-first-customer-finder-skill)** | Codex skill that finds evidence-backed first-customer leads from recent public signals. |
-| **[oran](https://github.com/dg996/oran)** | Lightweight web experiment — [oran-nu.vercel.app](https://oran-nu.vercel.app). |
-| **[small-local-llm](https://github.com/dg996/small-local-llm)** | Experiments running small language models locally. |
+| **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending — official sources, fail-closed data, production product. |
+| **[OpenX-Growth](https://github.com/dg996/OpenX-Growth)** | Open-source X growth tool. |
+| **[XViral](https://github.com/dg996/XViral)** | AI that grades a post before the algorithm does. |
+| **[codex-first-customer-finder-skill](https://github.com/dg996/codex-first-customer-finder-skill)** | Codex skill for evidence-backed first-customer signals. |
 
-### Also exploring
+## Writing
 
-- **[suna](https://github.com/dg996/suna)** — autonomous company operating system (fork / exploration around Kortix).
-- Private product work across Magistra, Kin, Storynk, and other experiments that aren't public yet.
+- [Building has never been easier. That's why it's so hard.](https://domenicogagliardi.com) — wrappers, moats, knowledge, advantage
+- [Personal life update: leaving Kortix](https://domenicogagliardi.com) — Softgen, Suna, next chapter for Italy & Europe
+- [Time to build like Italians again](https://domenicogagliardi.com) — Italian Builders, open source, European infrastructure
+- [Beyond Human Bandwidth (SSRN)](https://domenicogagliardi.com) — AI verifiers in the AGI economy
 
-## Build stack
-
-<p>
-  <strong>Languages</strong><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
-</p>
-
-<p>
-  <strong>Product & UI</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-</p>
-
-<p>
-  <strong>Data & shipping</strong><br>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/Evidence--first%20ETL-111111?style=flat-square" alt="Evidence-first ETL">
-  <img src="https://img.shields.io/badge/Agents%20%26%20skills-111111?style=flat-square" alt="Agents and skills">
-</p>
+Full list and beliefs → **[domenicogagliardi.com](https://domenicogagliardi.com)**
 
 ---
 
 <p align="center">
-  <strong>building · exploring · dreaming</strong>
+  <a href="https://domenicogagliardi.com"><strong>domenicogagliardi.com</strong></a>
 </p>
