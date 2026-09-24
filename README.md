@@ -28,13 +28,13 @@
 
 I'm an entrepreneur and investor. I build companies, scale digital products, and focus on operations and growth.
 
-I've launched products used by hundreds of thousands of people, built companies that raised funding from VCs, and published writing on AI and the economy.
+I've launched products used by hundreds of thousands of people, built companies that raised from VCs, and written about AI and the economy.
 
-Right now I'm the main contributor & launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)** — civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co) and [Manto Venture](https://mantoventure.com).
+Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)**: civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co) and [Manto Venture](https://mantoventure.com).
 
-I also run **[Italian Builders](https://italianbuilders.co)** — an invite-only community for Italian founders and builders who ship (600+ members).
+I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (600+ members).
 
-> More on **[domenicogagliardi.com](https://domenicogagliardi.com)** — work, projects, writing, beliefs.
+> Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)** (work, projects, writing, beliefs).
 
 ## Work
 
@@ -43,7 +43,7 @@ I also run **[Italian Builders](https://italianbuilders.co)** — an invite-only
 <td>
 
 **Now · [DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)** · public money, explained simply · `[LIVE]`  
-Main Contributor & Launcher · Aug 2026 –  
+Main Contributor & Launcher · Aug 2026 -  
 Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders and Manto Venture.  
 [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com) · [GitHub](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)
 
@@ -53,7 +53,7 @@ Civic open-source atlas of Italian public spending from official sources. Built 
 <td>
 
 **[Kortix](https://kortix.com)** · one AI command center for your company · `[LEFT · MBO]`  
-Founding member & COO · Apr 2025 – Jul 2026  
+Founding member & COO · Apr 2025 - Jul 2026  
 Launched Suna: ~20k GitHub stars and half a million users worldwide. Raised $4M seed. Left after a small management buyout; remain a small shareholder.
 
 </td>
@@ -62,7 +62,7 @@ Launched Suna: ~20k GitHub stars and half a million users worldwide. Raised $4M 
 <td>
 
 **[Softgen AI](https://softgen.ai)** · `[EXITED]`  
-Co-founder & Head of Growth · Nov 2024 – Apr 2025  
+Co-founder & Head of Growth · Nov 2024 - Apr 2025  
 AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
 </td>
@@ -71,26 +71,26 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
 ## Community & investments
 
-- **[Italian Builders](https://italianbuilders.co)** — invite-only community for Italian founders who ship · [X @italianbldrs](https://x.com/italianbldrs)
-- **[Fundreef](https://fundreef.com)** — pre-seed · *the Lovable for fundraising*
+- **[Italian Builders](https://italianbuilders.co)**: invite-only community for Italian founders who ship · [X @italianbldrs](https://x.com/italianbldrs)
+- **[Fundreef](https://fundreef.com)**: pre-seed, the Lovable for fundraising
 
 ## Selected open source
 
 | Project | What |
 | --- | --- |
-| **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending — official sources, fail-closed data, production product. |
+| **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending: official sources, fail-closed data, production product. |
 | **[OpenX-Growth](https://github.com/dg996/OpenX-Growth)** | Open-source X growth tool. |
 | **[XViral](https://github.com/dg996/XViral)** | AI that grades a post before the algorithm does. |
 | **[codex-first-customer-finder-skill](https://github.com/dg996/codex-first-customer-finder-skill)** | Codex skill for evidence-backed first-customer signals. |
 
 ## Writing
 
-- [Building has never been easier. That's why it's so hard.](https://domenicogagliardi.com/writing/building-has-never-been-easier) — wrappers, moats, knowledge, advantage
-- [Personal life update: leaving Kortix](https://domenicogagliardi.com/writing/leaving-kortix) — Softgen, Suna, next chapter for Italy & Europe
-- [Time to build like Italians again](https://domenicogagliardi.com/writing/time-to-build-like-italians) — Italian Builders, open source, European infrastructure
-- [Beyond Human Bandwidth (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6364918) — AI verifiers in the AGI economy · [base paper (arXiv)](https://arxiv.org/html/2602.20946v2)
+- [Building has never been easier. That's why it's so hard.](https://domenicogagliardi.com/writing/building-has-never-been-easier) (wrappers, moats, knowledge, advantage)
+- [Personal life update: leaving Kortix](https://domenicogagliardi.com/writing/leaving-kortix) (Softgen, Suna, next chapter for Italy & Europe)
+- [Time to build like Italians again](https://domenicogagliardi.com/writing/time-to-build-like-italians) (Italian Builders, open source, European infrastructure)
+- [Beyond Human Bandwidth (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6364918) (AI verifiers in the AGI economy) · [base paper (arXiv)](https://arxiv.org/html/2602.20946v2)
 
-Full list and beliefs → **[domenicogagliardi.com](https://domenicogagliardi.com)**
+More on **[domenicogagliardi.com](https://domenicogagliardi.com)**
 
 ---
 
