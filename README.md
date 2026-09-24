@@ -61,7 +61,7 @@ Launched Suna: ~20k GitHub stars and half a million users worldwide. Raised $4M 
 <tr>
 <td>
 
-**Softgen AI** · `[EXITED]`  
+**[Softgen AI](https://softgen.ai)** · `[EXITED]`  
 Co-founder & Head of Growth · Nov 2024 – Apr 2025  
 AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
@@ -72,7 +72,7 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 ## Community & investments
 
 - **[Italian Builders](https://italianbuilders.co)** — invite-only community for Italian founders who ship · [X @italianbldrs](https://x.com/italianbldrs)
-- **Fundreef** — pre-seed · *the Lovable for fundraising*
+- **[Fundreef](https://fundreef.com)** — pre-seed · *the Lovable for fundraising*
 
 ## Selected open source
 
@@ -85,10 +85,10 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
 ## Writing
 
-- [Building has never been easier. That's why it's so hard.](https://domenicogagliardi.com) — wrappers, moats, knowledge, advantage
-- [Personal life update: leaving Kortix](https://domenicogagliardi.com) — Softgen, Suna, next chapter for Italy & Europe
-- [Time to build like Italians again](https://domenicogagliardi.com) — Italian Builders, open source, European infrastructure
-- [Beyond Human Bandwidth (SSRN)](https://domenicogagliardi.com) — AI verifiers in the AGI economy
+- [Building has never been easier. That's why it's so hard.](https://domenicogagliardi.com/writing/building-has-never-been-easier) — wrappers, moats, knowledge, advantage
+- [Personal life update: leaving Kortix](https://domenicogagliardi.com/writing/leaving-kortix) — Softgen, Suna, next chapter for Italy & Europe
+- [Time to build like Italians again](https://domenicogagliardi.com/writing/time-to-build-like-italians) — Italian Builders, open source, European infrastructure
+- [Beyond Human Bandwidth (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6364918) — AI verifiers in the AGI economy · [base paper (arXiv)](https://arxiv.org/html/2602.20946v2)
 
 Full list and beliefs → **[domenicogagliardi.com](https://domenicogagliardi.com)**
 
