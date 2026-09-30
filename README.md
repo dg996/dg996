@@ -32,7 +32,7 @@ I've launched products used by hundreds of thousands of people, built companies 
 
 Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)**: civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co) and [Manto Venture](https://mantoventure.com).
 
-I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (600+ members).
+I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (750+ members).
 
 > Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)** (work, projects, writing, beliefs).
 
