@@ -46,7 +46,7 @@ I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only co
 
 **Now · [ItaliaAperta](https://www.italiaaperta.it)** · find the official page for Italian public services · `[LIVE]`  
 Builder · Sep 2026 -  
-Independent guide to Italian public services (SPID, CIE, passports, and more): points you to the right official site, doesn't file paperwork for you. Born from DVNS and supported by [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com).  
+Independent guide to Italian public services (SPID, CIE, passports, and more): points you to the right official site, with the vision of "AGENTIFY" the entire public services. Born from DVNS and supported by [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com).  
 [italiaaperta.it](https://www.italiaaperta.it)
 
 </td>
