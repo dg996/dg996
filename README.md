@@ -32,6 +32,8 @@ I've launched products used by hundreds of thousands of people, built companies 
 
 Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)**: civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co) and [Manto Venture](https://mantoventure.com).
 
+From that same civic stack I'm also shipping **[ItaliaAperta](https://www.italiaaperta.it)**: a public-services guide for Italy (where to renew SPID, CIE, and similar), connected to and supported by DoveVannoINostriSoldi.
+
 I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (750+ members).
 
 > Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)** (work, projects, writing, beliefs).
@@ -42,9 +44,19 @@ I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only co
 <tr>
 <td>
 
+**Now · [ItaliaAperta](https://www.italiaaperta.it)** · find the official page for Italian public services · `[LIVE]`  
+Builder · Sep 2026 -  
+Independent guide to Italian public services (SPID, CIE, passports, and more): points you to the right official site, doesn't file paperwork for you. Born from DVNS and supported by [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com).  
+[italiaaperta.it](https://www.italiaaperta.it)
+
+</td>
+</tr>
+<tr>
+<td>
+
 **Now · [DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)** · public money, explained simply · `[LIVE]`  
 Main Contributor & Launcher · Aug 2026 -  
-Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders and Manto Venture.  
+Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders and Manto Venture. Powers and supports ItaliaAperta.  
 [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com) · [GitHub](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)
 
 </td>
@@ -78,7 +90,8 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
 | Project | What |
 | --- | --- |
-| **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending: official sources, fail-closed data, production product. |
+| **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending: official sources, fail-closed data, production product. Supports ItaliaAperta. |
+| **[ItaliaAperta](https://www.italiaaperta.it)** | Guide to Italian public services: official links only, no filings. Connected to DoveVannoINostriSoldi. |
 | **[OpenX-Growth](https://github.com/dg996/OpenX-Growth)** | Open-source X growth tool. |
 | **[XViral](https://github.com/dg996/XViral)** | AI that grades a post before the algorithm does. |
 | **[codex-first-customer-finder-skill](https://github.com/dg996/codex-first-customer-finder-skill)** | Codex skill for evidence-backed first-customer signals. |
