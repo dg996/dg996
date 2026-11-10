@@ -34,6 +34,8 @@ Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](htt
 
 From that same civic stack I'm also shipping **[ItaliaAperta](https://www.italiaaperta.it)**: a public-services guide for Italy (where to renew SPID, CIE, and similar), connected to and supported by DoveVannoINostriSoldi.
 
+On the side I'm building **[Mondo Isometrico](https://mondoisometrico.domenicogagliardi.com)**: an open-data isometric map of Rome (OSM + terrain, AI-painted tiles) you can explore in the browser.
+
 I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (900+ members).
 
 > Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)** (work, projects, writing, beliefs).
@@ -58,6 +60,16 @@ Independent guide to Italian public services (SPID, CIE, passports, and more): p
 Main Contributor & Launcher · Aug 2026 -  
 Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders. Powers and supports ItaliaAperta.  
 [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com) · [GitHub](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Now · [Mondo Isometrico](https://mondoisometrico.domenicogagliardi.com)** · Rome as an isometric map · `[LIVE]`  
+Builder · Nov 2026 -  
+Open-data isometric map of Rome: OpenStreetMap + Copernicus DEM, AI-painted tiles, live traffic and sky.  
+[mondoisometrico.domenicogagliardi.com](https://mondoisometrico.domenicogagliardi.com) · [GitHub](https://github.com/dg996/mondoisometrico)
 
 </td>
 </tr>
@@ -90,6 +102,7 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
 | Project | What |
 | --- | --- |
+| **[Mondo Isometrico](https://github.com/dg996/mondoisometrico)** | Isometric open-data map of Rome — OSM, terrain, AI paint. [Live map](https://mondoisometrico.domenicogagliardi.com). |
 | **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending: official sources, fail-closed data, production product. Supports ItaliaAperta. |
 | **[ItaliaAperta](https://www.italiaaperta.it)** | Guide to Italian public services: official links only, no filings. Connected to DoveVannoINostriSoldi. |
 | **[OpenX-Growth](https://github.com/dg996/OpenX-Growth)** | Open-source X growth tool. |
