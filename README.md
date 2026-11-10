@@ -34,7 +34,7 @@ Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](htt
 
 From that same civic stack I'm also shipping **[ItaliaAperta](https://www.italiaaperta.it)**: a public-services guide for Italy (where to renew SPID, CIE, and similar), connected to and supported by DoveVannoINostriSoldi.
 
-I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (750+ members).
+I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (900+ members).
 
 > Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)** (work, projects, writing, beliefs).
 
