@@ -30,7 +30,7 @@ I'm an entrepreneur and investor. I build companies, scale digital products, and
 
 I've launched products used by hundreds of thousands of people, built companies that raised from VCs, and written about AI and the economy.
 
-Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)**: civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co) and [Manto Venture](https://mantoventure.com).
+Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)**: civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co)
 
 From that same civic stack I'm also shipping **[ItaliaAperta](https://www.italiaaperta.it)**: a public-services guide for Italy (where to renew SPID, CIE, and similar), connected to and supported by DoveVannoINostriSoldi.
 
@@ -56,7 +56,7 @@ Independent guide to Italian public services (SPID, CIE, passports, and more): p
 
 **Now · [DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)** · public money, explained simply · `[LIVE]`  
 Main Contributor & Launcher · Aug 2026 -  
-Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders and Manto Venture. Powers and supports ItaliaAperta.  
+Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders. Powers and supports ItaliaAperta.  
 [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com) · [GitHub](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)
 
 </td>
