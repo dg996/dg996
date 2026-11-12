@@ -36,13 +36,25 @@ From that same civic stack I'm also shipping **[ItaliaAperta](https://www.italia
 
 On the side I'm building **[Mondo Isometrico](https://mondoisometrico.domenicogagliardi.com)**: an open-data isometric map of Rome (OSM + terrain, AI-painted tiles) you can explore in the browser.
 
+I'm also building **[Skywake](https://skywake.dev)**: a filesystem and search index for agents on object storage ([GitHub](https://github.com/dg996/skywake)).
+
 I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (900+ members).
 
-> Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)** (work, projects, writing, beliefs).
+> Lab: **[Doms Lab](https://domslab.domenicogagliardi.com)** · Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)**
 
 ## Work
 
 <table>
+<tr>
+<td>
+
+**Now · [Skywake](https://skywake.dev)** · filesystem and search for agents, on object storage · `[LIVE]`  
+Builder · 2026 -  
+Open-source filesystem and search index for AI agents on your own object storage. Forks copy a pointer, never data.  
+[skywake.dev](https://skywake.dev) · [GitHub](https://github.com/dg996/skywake)
+
+</td>
+</tr>
 <tr>
 <td>
 
@@ -102,6 +114,7 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
 | Project | What |
 | --- | --- |
+| **[Skywake](https://github.com/dg996/skywake)** | Filesystem and search for agents on object storage. [skywake.dev](https://skywake.dev). |
 | **[Mondo Isometrico](https://github.com/dg996/mondoisometrico)** | Isometric open-data map of Rome — OSM, terrain, AI paint. [Live map](https://mondoisometrico.domenicogagliardi.com). |
 | **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending: official sources, fail-closed data, production product. Supports ItaliaAperta. |
 | **[ItaliaAperta](https://www.italiaaperta.it)** | Guide to Italian public services: official links only, no filings. Connected to DoveVannoINostriSoldi. |
