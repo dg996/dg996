@@ -36,7 +36,7 @@ From that same civic stack I'm also shipping **[ItaliaAperta](https://www.italia
 
 On the side I'm building **[Mondo Isometrico](https://mondoisometrico.domenicogagliardi.com)**: an open-data isometric map of Rome (OSM + terrain, AI-painted tiles) you can explore in the browser.
 
-I'm also building **[Skywake](https://skywake.dev)**: cloud files and search for AI agents ([GitHub](https://github.com/dg996/skywake)).
+I'm also building **[Skywake](https://skywake.dev)**: cloud files and search for AI agents ([GitHub](https://github.com/skywakehq/skywake)).
 
 I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (900+ members).
 
@@ -51,7 +51,7 @@ I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only co
 **Now · [Skywake](https://skywake.dev)** · cloud files and search for AI agents · `[LIVE]`  
 Builder · 2026 -  
 Open-source cloud files and search for AI agents. Each agent gets its own space.  
-[skywake.dev](https://skywake.dev) · [GitHub](https://github.com/dg996/skywake)
+[skywake.dev](https://skywake.dev) · [GitHub](https://github.com/skywakehq/skywake)
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 
 | Project | What |
 | --- | --- |
-| **[Skywake](https://github.com/dg996/skywake)** | Cloud files and search for AI agents. [skywake.dev](https://skywake.dev). |
+| **[Skywake](https://github.com/skywakehq/skywake)** | Cloud files and search for AI agents. [skywake.dev](https://skywake.dev). |
 | **[Mondo Isometrico](https://github.com/dg996/mondoisometrico)** | Isometric open-data map of Rome — OSM, terrain, AI paint. [Live map](https://mondoisometrico.domenicogagliardi.com). |
 | **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending: official sources, fail-closed data, production product. Supports ItaliaAperta. |
 | **[ItaliaAperta](https://www.italiaaperta.it)** | Guide to Italian public services: official links only, no filings. Connected to DoveVannoINostriSoldi. |
