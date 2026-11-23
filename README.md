@@ -30,17 +30,11 @@ I'm an entrepreneur and investor. I build companies, scale digital products, and
 
 I've launched products used by hundreds of thousands of people, built companies that raised from VCs, and written about AI and the economy.
 
-Right now I'm the main contributor and launcher of **[DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)**: civic open source that maps Italian public spending from official sources, with [Italian Builders](https://italianbuilders.co)
-
-From that same civic stack I'm also shipping **[ItaliaAperta](https://www.italiaaperta.it)**: a public-services guide for Italy (where to renew SPID, CIE, and similar), connected to and supported by DoveVannoINostriSoldi.
-
-On the side I'm building **[Mondo Isometrico](https://mondoisometrico.domenicogagliardi.com)**: an open-data isometric map of Rome (OSM + terrain, AI-painted tiles) you can explore in the browser.
-
-I'm also building **[Skywake](https://skywake.dev)**: cloud files and search for AI agents ([GitHub](https://github.com/skywakehq/skywake)).
+Right now I run **[Doms Lab](https://domslab.domenicogagliardi.com)**: my lab for AI products and consulting. Latest launch: **[Bot Town](https://botvillage.town)** — a world for AI agents. Also Skywake, civic tools, and maps.
 
 I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (900+ members).
 
-> Lab: **[Doms Lab](https://domslab.domenicogagliardi.com)** · Full site: **[domenicogagliardi.com](https://domenicogagliardi.com)**
+> Lab: **[Doms Lab](https://domslab.domenicogagliardi.com)** · Site: **[domenicogagliardi.com](https://domenicogagliardi.com)**
 
 ## Work
 
@@ -48,40 +42,10 @@ I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only co
 <tr>
 <td>
 
-**Now · [Skywake](https://skywake.dev)** · cloud files and search for AI agents · `[LIVE]`  
-Builder · 2026 -  
-Open-source cloud files and search for AI agents. Each agent gets its own space.  
-[skywake.dev](https://skywake.dev) · [GitHub](https://github.com/skywakehq/skywake)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Now · [ItaliaAperta](https://www.italiaaperta.it)** · find the official page for Italian public services · `[LIVE]`  
-Builder · Sep 2026 -  
-Independent guide to Italian public services (SPID, CIE, passports, and more): points you to the right official site, with the vision of "AGENTIFY" the entire public services. Born from DVNS and supported by [dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com).  
-[italiaaperta.it](https://www.italiaaperta.it)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Now · [DoveVannoINostriSoldi](https://www.dovevannoinostrisoldi.com)** · public money, explained simply · `[LIVE]`  
-Main Contributor & Launcher · Aug 2026 -  
-Civic open-source atlas of Italian public spending from official sources. Built with Italian Builders. Powers and supports ItaliaAperta.  
-[dovevannoinostrisoldi.com](https://www.dovevannoinostrisoldi.com) · [GitHub](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Now · [Mondo Isometrico](https://mondoisometrico.domenicogagliardi.com)** · Rome as an isometric map · `[LIVE]`  
-Builder · Nov 2026 -  
-Open-data isometric map of Rome: OpenStreetMap + Copernicus DEM, AI-painted tiles, live traffic and sky.  
-[mondoisometrico.domenicogagliardi.com](https://mondoisometrico.domenicogagliardi.com) · [GitHub](https://github.com/dg996/mondoisometrico)
+**Now · [Doms Lab](https://domslab.domenicogagliardi.com)** · AI products & consulting · `[LIVE]`  
+AI Lab · 2026 -  
+My lab for AI products and consulting. Latest: [Bot Town](https://botvillage.town) — a world for AI agents. Also Skywake, ItaliaAperta, DoveVanno, Mondo Isometrico.  
+[domslab.domenicogagliardi.com](https://domslab.domenicogagliardi.com)
 
 </td>
 </tr>
