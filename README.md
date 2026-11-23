@@ -30,7 +30,7 @@ I'm an entrepreneur and investor. I build companies, scale digital products, and
 
 I've launched products used by hundreds of thousands of people, built companies that raised from VCs, and written about AI and the economy.
 
-Right now I run **[Doms Lab](https://domslab.domenicogagliardi.com)**: my lab for AI products and consulting. Latest launch: **[Bot Town](https://botvillage.town)** — a world for AI agents. Also Skywake, civic tools, and maps.
+Right now I run **[Doms Lab](https://domslab.domenicogagliardi.com)**: my lab for AI products and consulting. Latest launch: **[Bot Town](https://botvillage.town)**: a world for AI agents. Also Skywake, civic tools, and maps.
 
 I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only community for Italian founders and builders who ship (900+ members).
 
@@ -44,7 +44,7 @@ I also run **[Italian Builders](https://italianbuilders.co)**, an invite-only co
 
 **Now · [Doms Lab](https://domslab.domenicogagliardi.com)** · AI products & consulting · `[LIVE]`  
 AI Lab · 2026 -  
-My lab for AI products and consulting. Latest: [Bot Town](https://botvillage.town) — a world for AI agents. Also Skywake, ItaliaAperta, DoveVanno, Mondo Isometrico.  
+My lab for AI products and consulting. Latest: [Bot Town](https://botvillage.town): a world for AI agents. Also Skywake, ItaliaAperta, DoveVanno, Mondo Isometrico.  
 [domslab.domenicogagliardi.com](https://domslab.domenicogagliardi.com)
 
 </td>
@@ -79,7 +79,7 @@ AI full-stack web apps. Scaled $20k to $500k ARR in four months.
 | Project | What |
 | --- | --- |
 | **[Skywake](https://github.com/skywakehq/skywake)** | Cloud files and search for AI agents. [skywake.dev](https://skywake.dev). |
-| **[Mondo Isometrico](https://github.com/dg996/mondoisometrico)** | Isometric open-data map of Rome — OSM, terrain, AI paint. [Live map](https://mondoisometrico.domenicogagliardi.com). |
+| **[Mondo Isometrico](https://github.com/dg996/mondoisometrico)** | Isometric open-data map of Rome: OSM, terrain, AI paint. [Live map](https://mondoisometrico.domenicogagliardi.com). |
 | **[DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)** | Civic atlas for Italian public spending: official sources, fail-closed data, production product. Supports ItaliaAperta. |
 | **[ItaliaAperta](https://www.italiaaperta.it)** | Guide to Italian public services: official links only, no filings. Connected to DoveVannoINostriSoldi. |
 | **[OpenX-Growth](https://github.com/dg996/OpenX-Growth)** | Open-source X growth tool. |
